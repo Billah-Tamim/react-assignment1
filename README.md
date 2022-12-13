@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## the live link [click here](https://www.google.com)
+## the live link [Netlify web host](https://moonlit-semolina-e21e17.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
