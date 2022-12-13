@@ -1,11 +1,24 @@
 .cart{
-    height: 300px;
+    height: 500px;
     margin: 100px 10px;
     padding: 20px;
     background-color: rgb(101, 101, 101);
     border: 1px solid ghostwhite;
     border-radius: 20px;
     position: sticky;
-    top: 100px;
+    top: 10px;
     color: wheat;
+}
+.first-btn{
+    background-color: rgb(101, 101, 101);
+    padding: 10px 20px;
+    color: whitesmoke;
+    border: 1px solid white;
+    margin-bottom: 10px;
+}
+.second-btn{
+    background-color: rgb(101, 101, 101);
+    padding: 10px 20px;
+    border: 1px solid white;
+    color: lightsalmon;
 }
